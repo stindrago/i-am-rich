@@ -13,6 +13,8 @@
 		FA88707527FC271F00AD2A95 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA88707327FC271F00AD2A95 /* Main.storyboard */; };
 		FA88707727FC272C00AD2A95 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA88707627FC272C00AD2A95 /* Assets.xcassets */; };
 		FA88707A27FC272C00AD2A95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA88707827FC272C00AD2A95 /* LaunchScreen.storyboard */; };
+		FA88708327FC4C5B00AD2A95 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = FA88708127FC4C5B00AD2A95 /* LICENSE */; };
+		FA88708427FC4C5B00AD2A95 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = FA88708227FC4C5B00AD2A95 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		FA88707627FC272C00AD2A95 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FA88707927FC272C00AD2A95 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FA88707B27FC272C00AD2A95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FA88708127FC4C5B00AD2A95 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		FA88708227FC4C5B00AD2A95 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +44,8 @@
 		FA88706127FC271E00AD2A95 = {
 			isa = PBXGroup;
 			children = (
+				FA88708127FC4C5B00AD2A95 /* LICENSE */,
+				FA88708227FC4C5B00AD2A95 /* README.md */,
 				FA88706C27FC271F00AD2A95 /* I Am Rich */,
 				FA88706B27FC271F00AD2A95 /* Products */,
 			);
@@ -127,6 +133,8 @@
 			files = (
 				FA88707A27FC272C00AD2A95 /* LaunchScreen.storyboard in Resources */,
 				FA88707727FC272C00AD2A95 /* Assets.xcassets in Resources */,
+				FA88708427FC4C5B00AD2A95 /* README.md in Resources */,
+				FA88708327FC4C5B00AD2A95 /* LICENSE in Resources */,
 				FA88707527FC271F00AD2A95 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
