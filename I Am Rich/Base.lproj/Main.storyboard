@@ -38,6 +38,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="diamond-1" width="343" height="251"/>
+        <image name="diamond-1" width="341" height="341"/>
     </resources>
 </document>
