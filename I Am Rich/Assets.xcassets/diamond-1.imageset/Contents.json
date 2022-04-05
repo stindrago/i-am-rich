@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "diamond.png",
+      "filename" : "i-am-rich.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "diamond@2x.png",
+      "filename" : "i-am-rich@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "diamond@3x.png",
+      "filename" : "i-am-rich@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }
